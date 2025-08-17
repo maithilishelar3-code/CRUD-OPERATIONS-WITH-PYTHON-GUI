@@ -13,13 +13,13 @@ It supports **CRUD operations**: Create, Read, Update, and Delete patient record
 - Delete a patient record.
 - User-friendly GUI made with **Tkinter**.
 
-## output
-<img width="1376" height="537" alt="Image" src="https://github.com/user-attachments/assets/62894649-2fa0-49e5-951b-d3f80e79ca0c" />
-
-
-##  Requirements
+ ##  Requirements
 - Python 3.x  
 - MongoDB Community Server + MongoDB Compass  
 - PyCharm (or any Python IDE)
 
----
+
+## output
+<img width="1376" height="537" alt="Image" src="https://github.com/user-attachments/assets/62894649-2fa0-49e5-951b-d3f80e79ca0c" />
+
+
